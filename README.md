@@ -1,14 +1,18 @@
 <h1>Hi, I'm AbuZaynab!</h1>
 
-<h2> 🧠My Projects:</h2>
-- <b>)How</b>
-  - [Like This](https://github.com/)
+<h2>⭐ Projects</h2>
 
-<h2> 🧠My Projects:</h2>
-- <b>)How</b>
-  - [Like This](https://github.com/)
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
+
+<h2>📺 Demo Showcase </h2>
+
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <h2> 🤳 Connect with me:</h2>
 
+[<img align="left" alt="AbuZaynab | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+
+[linkedin]: https://linkedin.com/in/
