@@ -8,7 +8,7 @@
 
 <h2>📺 Demo Showcase </h2>
 
-- [Coming Soon](L ink)
+- [Coming Soon]
 
 <h2> 🤳 Connect with me:</h2>
 
