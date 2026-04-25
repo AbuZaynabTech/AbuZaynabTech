@@ -8,7 +8,7 @@
 
 <h2>📺 Demo Showcase </h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Coming Soon](L ink)
 
 <h2> 🤳 Connect with me:</h2>
 
