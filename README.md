@@ -3,7 +3,7 @@
 <h2>⭐ Projects</h2>
 
 - <b>Graphic Design (Adobe Photoshop)</b>
-  - [Graphic Designing Porfolio](https://github.com/AbuZaynabTech/GraphicDesign)
+  - [Graphic Designing Porfolio](https://github.com/AbuZaynabTech/Graphic_Design_Portfolio)
 
 
 <h2>📺 Demo Showcase </h2>
