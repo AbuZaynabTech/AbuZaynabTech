@@ -5,8 +5,8 @@
 - <b>Graphic Design (Adobe Photoshop)</b>
   - [Graphic Designing Porfolio](https://github.com/AbuZaynabTech/Graphic_Design_Portfolio)
 
-- <b>CompTIA A+</b>
-  - [CompTIA A+ LAB Portfolio](.com)
+- <b>CompTIA A+(coming soon)</b>
+  - [CompTIA A+ LAB Portfolio](coming soon)
   <!--  
   /1-Hardware
     - broken-vm-simulation.md (Screenshots of errors)
